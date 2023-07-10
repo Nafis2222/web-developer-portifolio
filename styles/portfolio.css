@@ -238,3 +238,43 @@ hr{
 .download{
     text-align: center;
 }
+.ki{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+   
+    width: 1600px;
+height: 780px;
+flex-shrink: 0;
+background: #FFF8F3;;
+}
+.poran{
+    color: var(--dark-01, #181818);
+text-align: center;
+font-family: Open Sans;
+font-size: 35px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.joliya{
+    display: flex;
+width: 562px;
+flex-direction: column;
+flex-shrink: 0;
+}
+.pora{
+    width: 461px;
+height: 64px;
+flex-shrink: 0;
+border-radius: 5px;
+background: var(--white-color, #FFF);
+text-size-adjust: ;
+}
+.por{
+    width: 461px;
+height: 180px;
+flex-shrink: 0;
+border-radius: 5px;
+background: var(--white-color, #FFF);
+}
